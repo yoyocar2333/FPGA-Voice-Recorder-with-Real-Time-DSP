@@ -201,7 +201,7 @@ This was a course lab. To be transparent:
 
 ## Authors
 
-Team 10 — _add names / GitHub handles here._
+Team 10 — 謝昊璇(Hsieh, Hao-Hsuan), 林宸民, 黃彥富
 
 ## License
 
