@@ -196,7 +196,7 @@ This was a course lab. To be transparent:
   (`DE2_115.sv`, `Top.sv` interface), `I2cInitializer.sv` structure,
   `SevenHexDecoder.sv`, and the Qsys SDRAM IP.
 
-> ⚠️ If you are a current student of this course, do not copy this as your own
+> If you are a current student of this course, do not copy this as your own
 > This is shared as a personal portfolio reference.
 
 ## Authors
