@@ -1,0 +1,29 @@
+# ---- Quartus Prime generated ----
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+hc_output/
+.qsys_edit/
+*.qws
+*.rpt
+*.summary
+*.smsg
+*.jdi
+*.pin
+*.done
+*.sld
+*.sof
+*.pof
+*.qarlog
+*.qpf.bak
+
+# ---- Backups & editor cruft ----
+*.bak
+*~
+.DS_Store
+
+# ---- Large generated audio / data (regenerate with scripts/) ----
+src/mif_data/*.mif
+*.raw
