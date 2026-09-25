@@ -164,6 +164,12 @@ hardware. A few representative bugs:
 
 ---
 
+## Portfolio positioning
+
+For a CS/EE application, the strongest technical evidence in this team project is the **streaming data path** rather than the UI: sample-rate-paced FSM scheduling, signed fixed-width interpolation arithmetic, I²S serialization, and an Avalon-MM/SDRAM prefetch path. The repository intentionally keeps the team attribution section below so the project is not presented as sole-authored work.
+
+---
+
 ## Possible future work
 
 - Auto-stop when playback reaches the end of the recording.
