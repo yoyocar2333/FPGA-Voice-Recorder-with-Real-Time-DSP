@@ -36,18 +36,6 @@ prefetch cache), and a live LCD / seven-segment status display.
 
 ---
 
-## Demo
-
-> _Add a short clip or photos of the board here — a 20–30 s video of recording,
-> then playing back at 2× / 0.25× / reverse is the single most convincing thing
-> you can put in this repo._
-
-```
-[ photo of DE2-115 running ]   [ LCD showing "PLAYING 2.0x" ]
-```
-
----
-
 ## System Architecture
 
 ```
@@ -196,8 +184,7 @@ This was a course lab. To be transparent:
   (`DE2_115.sv`, `Top.sv` interface), `I2cInitializer.sv` structure,
   `SevenHexDecoder.sv`, and the Qsys SDRAM IP.
 
-> If you are a current student of this course, do not copy this as your own
-> This is shared as a personal portfolio reference.
+> If you are a current student of this course, do not copy this as your own work. This repository is shared as a personal portfolio reference.
 
 ## Authors
 
